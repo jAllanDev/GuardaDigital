@@ -79,7 +79,7 @@ O GuardaDigital sempre responde no formato:
    ```
 
 ## 🎥 Demonstração
-[▶️ Vídeo mostrando detecção de golpes em ação](https://drive.google.com/file/d/1X7YDR7muBozdMvdsnxYEiFoxEG4dNYHj/view?usp=drive_link)
+[▶️ Vídeo mostrando detecção de golpes em ação]()
 
 ## 🔒 Segurança e Privacidade
 - Não armazena dados pessoais permanentemente
@@ -88,5 +88,6 @@ O GuardaDigital sempre responde no formato:
 - Respostas didáticas e respeitosas
 
 ---
+
 
 **Missão**: Proteger idosos contra golpes digitais através de tecnologia acessível e educação preventiva. 🛡️
